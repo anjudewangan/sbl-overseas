@@ -418,8 +418,8 @@ input::-webkit-inner-spin-button {
 }
 
 .logo_image img {
-  height: 60px;
-  width: 85px;
+  /* height: 60px; */
+  width: 150px;
 }
 
 /*********************************
