@@ -1290,7 +1290,9 @@ input::-webkit-inner-spin-button {
 }
 
 .popular_item img {
-  max-width: 100%;
+  /* max-width: 100%; */
+  width: 263px;
+  height: 263px;
 }
 
 .popular_item_content {
@@ -2237,7 +2239,9 @@ input::-webkit-inner-spin-button {
 }
 
 .item_image img {
-  max-width: 100%;
+  /* max-width: 100%; */
+  width: 228px;
+  height: 228px;
 }
 
 .item_content {
