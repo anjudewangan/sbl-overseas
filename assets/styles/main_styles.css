@@ -1913,9 +1913,9 @@ input::-webkit-inner-spin-button {
   width: 100%;
 }
 
-.map_container .dubai {
-  top: 39%;
-  left: 64%;
+.map_container .africa {
+  top: 52%;
+  left: 55%;
 }
 
 .map_container .india {
@@ -1923,20 +1923,11 @@ input::-webkit-inner-spin-button {
   left: 71%;
 }
 
-.map_container .russia {
+.map_container .asia {
   top: 12%;
   left: 71%;
 }
 
-.map_container .united-states {
-  top: 28%;
-  left: 22%;
-}
-
-.map_container .brazil {
-  top: 66%;
-  left: 35%;
-}
 
 @keyframes pulse {
   100% {
